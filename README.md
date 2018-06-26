@@ -1,6 +1,6 @@
 # MiniProgram_TextCoin
 
-# 微信小程序T口令产品需求
+# 微信小程序红包产品需求
 
 应用场景：
 
